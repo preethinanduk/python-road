@@ -113,8 +113,6 @@ while(replay_choice):
                 continue_game = False
                 break
             else:
-                pass
-        
-        
+                pass  
     replay_choice = replay_input()
     replay()
